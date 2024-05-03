@@ -4,7 +4,7 @@ import javax.swing.*;
 
 public class RealizarReservaFrame extends JFrame {
     public RealizarReservaFrame() {
-        super("Realizar Reserva - MyHotel");
+        super("Realizar reserva - MyHotel");
         
         setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         setSize(470, 330);

@@ -17,7 +17,7 @@ public class RegistroUsuarioFrame extends JFrame {
     private JPasswordField campoConfirmarContrasena;
 
     public RegistroUsuarioFrame() {
-        super("Registro de Usuario - MyHotel");
+        super("Registro de usuario - MyHotel");
 
         JPanel panelRegistro = new JPanel();
         GroupLayout layout = new GroupLayout(panelRegistro);

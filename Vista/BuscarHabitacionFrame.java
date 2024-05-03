@@ -2,9 +2,9 @@ package Vista;
 
 import javax.swing.*;
 
-public class HistorialReservasFrame extends JFrame {
-    public HistorialReservasFrame() {
-        super("Historial de reservas - MyHotel");
+public class BuscarHabitacionFrame extends JFrame {
+    public BuscarHabitacionFrame() {
+        super("Buscar habitación - MyHotel");
         
         setDefaultCloseOperation(JFrame.DISPOSE_ON_CLOSE);
         setSize(470, 330);
